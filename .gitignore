@@ -1,0 +1,22 @@
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores e IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Variables de entorno y credenciales locales
+.env
+.env.*
+kubeconfig
+*.kubeconfig
+
+# Archivos temporales y logs
+*.log
+*.tmp
+*.bak
